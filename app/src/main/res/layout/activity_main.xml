@@ -43,8 +43,8 @@
         android:layout_marginTop="100dp"
         android:ems="10"
         android:hint="Phone"
+        android:inputType="phone"
         android:textColorHint="@color/black"
-        android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
 
