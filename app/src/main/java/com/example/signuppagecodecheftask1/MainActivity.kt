@@ -59,6 +59,6 @@ class MainActivity : AppCompatActivity() {
                     Toast.makeText(this,"Invalid Reg No.",Toast.LENGTH_SHORT).show()
                 }
             }
-                    }
+        }
     }
 }
